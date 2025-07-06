@@ -23,7 +23,7 @@ body{
 #cursor-blur{
     height: 400px;
     width:400px;
-    background-color: hsla(93, 100%, 69%, 0.475);
+    background-color: hsla(93, 43%, 56%, 0.475);
     border-radius: 50%;
     position: fixed;
     filter: blur(70px);
@@ -116,4 +116,13 @@ video{
     height: 100vh;
     width: 100%;
     z-index: 10;
+}
+
+#scroller{
+
+}
+
+#scroller-in{
+    font-size: 130px;
+    font-weight: 900;
 }
